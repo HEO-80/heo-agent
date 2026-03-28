@@ -154,9 +154,3 @@ Estas herramientas pueden tener consecuencias externas. Siempre confirma con Hé
 - Ejecutar comandos en tmux con efectos en el sistema
 
 ---
-
-### jhon-speak
-**Para qué**: responder con voz por Telegram
-**Cuándo usarla**: cuando Héctor pida respuesta de voz, para briefings importantes
-**Comando**: jhon-speak "texto de la respuesta"
-**Voz**: masculina grave española (es-ES-AlvaroNeural)
