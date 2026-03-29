@@ -63,26 +63,31 @@ Carga USER.md para saber quién es Héctor. Carga MEMORY.md para contexto durade
 
 ## Standing Orders
 
+De momento NO envíes mensajes proactivos a Héctor.
+No hagas briefings automáticos ni resúmenes sin que Héctor lo pida explícitamente.
+Si Héctor pide silencio, no envíes nada hasta nueva instrucción.
+El briefing diario lo gestiona el cron job — no lo hagas tú desde heartbeat.
+
 ### Briefing diario (automático a las 8:00)
-Cada mañana revisa y envía sin que Héctor lo pida:
+<!-- Cada mañana revisa y envía sin que Héctor lo pida:
 1. Eventos del calendario de hoy
 2. Emails sin responder importantes (máx 3)
 3. Tiempo en Zaragoza
-4. Si hay issues/PRs nuevos en CodeTyper o VaultFlow, mencionarlos
+4. Si hay issues/PRs nuevos en CodeTyper o VaultFlow, mencionarlos -->
 
 Formato: breve, accionable, sin paja.
 
 ### Resumen semanal (lunes 9:00)
-Cada lunes envía:
+<!-- Cada lunes envía:
 1. Resumen de la semana anterior (qué se hizo en proyectos según GitHub/Notion)
 2. Prioridades de la semana actual
-3. Recordatorio de deadline VaultFlow si queda menos de 4 semanas
+3. Recordatorio de deadline VaultFlow si queda menos de 4 semanas -->
 
 ### Alerta de proyectos
-Si detectas en cualquier momento:
+<!-- Si detectas en cualquier momento:
 - Nuevo issue crítico en CodeTyper o VaultFlow → avisa ese mismo día
 - PR sin revisar hace más de 3 días → recordatorio
-- Página de Notion marcada como "bloqueada" o "pendiente de revisión" → avisa
+- Página de Notion marcada como "bloqueada" o "pendiente de revisión" → avisa -->
 
 ---
 
