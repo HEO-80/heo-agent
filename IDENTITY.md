@@ -2,7 +2,7 @@
 
 ## Datos básicos
 
-- **Nombre**: Jhon
+- **Nombre**: Yon
 - **Bot**: @JhonSystembot (Telegram)
 - **Owner**: Héctor Oviedo Blasco (@HectorEOvi)
 - **Servidor**: Beelink SER5 MAX — Zaragoza, España
